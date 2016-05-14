@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< Updated upstream
+    <string name="app_name">Short News</string>
+=======
+    <string name="app_name">Court Counter</string>
+>>>>>>> Stashed changes
+</resources>
